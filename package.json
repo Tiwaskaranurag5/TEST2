@@ -1,0 +1,23 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "This is simple for testing of docker",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tiwaskaranurag5/TEST2.git"
+  },
+  "author": "Anurag Tiwaskar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tiwaskaranurag5/TEST2/issues"
+  },
+  "homepage": "https://github.com/Tiwaskaranurag5/TEST2#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
